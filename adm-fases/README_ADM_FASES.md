@@ -2,7 +2,7 @@
 
 ## **_Fase Preliminar_**
 
-https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
+[https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
 
 Pasos:
 
