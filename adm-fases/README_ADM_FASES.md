@@ -2,7 +2,7 @@
 
 ## **_Fase Preliminar_**
 
-[https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
+https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap05.html
 
 Pasos:
 
@@ -16,7 +16,7 @@ Pasos:
 
 ## **_Fase A: Visión de la Arquitectura_**
 
-https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap07.html
+https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
 
 Pasos:
 
